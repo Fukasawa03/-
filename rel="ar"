@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>rel=ar版</title>
+</head>
+<body>
+
+<h1>画像タップでAR</h1>
+
+<a rel="ar" href="卒業式看板オブジェクトBモデル完成版デモsmall.usdz">
+  <img src="https://via.placeholder.com/200" width="200">
+  <p>モデルAをARで見る</p>
+</a>
+
+</body>
+</html>
